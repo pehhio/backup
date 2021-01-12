@@ -1,0 +1,11 @@
+#!name=qqmusic-daily
+#!desc=Remove TikTok's regional restrictions.
+
+[MITM]
+hostname = *.y.qq.com
+
+[Script]
+# 注意获取Cookie有两条脚本
+http-request ^https:\/\/u.y.qq.com\/cgi\-bin\/musicu.fcg requires-body=true,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.cookie.js
+http-response ^https:\/\/u.y.qq.com\/cgi\-bin\/musicu.fcg requires-body=true,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.cookie.js
+cron "14 0 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js
