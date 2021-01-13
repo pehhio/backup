@@ -2,4 +2,4 @@
 #!desc=Remove TikTok's regional restrictions.
 
 [Script]
-http-response ^https?:\/\/.+\.(my10api|(.*91.*)|flurry|tiansex|bt0057)\.(com|tips|app|xyz|net)(:\d{2,5})?\/api.php$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/91ShortVideo.js
+http-response ^https?:\/\/.+\.(my10api|(.*91.*)|flurry|tiansex|bt0057)\.(com|tips|app|xyz|net|me)(:\d{2,5})?\/api.php$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/91ShortVideo.js
