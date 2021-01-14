@@ -2,7 +2,7 @@
 #!desc=Remove TikTok's regional restrictions.
 
 [Script]
-http-response https?:\/\/.*\.(lelefenxi|fuli|xiang(jiao|xiang))apps\.com\/(ucp\/index|getGlobalData|.+\/reqplay\/) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js
+http-response https?:\/\/.*\.((fuli|xiang(jiao|xiang))apps|lelefenxi)\.com\/(ucp\/index|getGlobalData|.+\/reqplay\/) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js
 
 [MITM]
 hostname = ios.fuliapps.com, apple.fuliapps.com, ios.xiangjiaoapps.com, apple.xiangjiaoapps.com, *.xiangxiangapps.com, lelefenxi.com
