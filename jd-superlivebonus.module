@@ -1,0 +1,4 @@
+#!name=Jd-直播间红包雨
+#!desc=Remove TikTok's regional restrictions.
+[Script]
+超级直播间红包雨 = type=cron,cronexp="30,31 20-23/1 12 1 *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain.js
