@@ -1,0 +1,5 @@
+#!name=jd-boomyear
+#!desc=Remove TikTok's regional restrictions.
+
+[Script]
+京东炸年兽🧨 = type=cron,cronexp="20 * * * * ",wake-system=1,timeout=200,script-path=https://qxzy.top/rules/QuantumultX/js/jd_nian.js
