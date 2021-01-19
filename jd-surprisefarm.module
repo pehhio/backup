@@ -1,0 +1,5 @@
+#!name=京喜农场
+#!desc=Remove TikTok's regional restrictions.
+
+[Script]
+惊喜农场 = type=cron,cronexp=0 9,12,18 * * *,wake-system=1,timeout=60,script-path=https://qxzy.top/rules/QuantumultX/js/jd_jxnc.js
