@@ -1,4 +1,4 @@
 #!name=京东互助码
-#!desc=Remove TikTok's regional restrictions.
+#!desc=Remove TikTok's regional restrictions...
 [Script]
 获取互助码 = type=cron,cronexp="20 13 * * 6",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_get_share_code.js
