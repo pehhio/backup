@@ -1,0 +1,6 @@
+#!name=规则
+#!desc=
+
+[Rule]
+DOMAIN-SUFFIX,ft.com,🇬🇧 United Kingdom 2
+DOMAIN-KEYWORD,DISNEY,🇭🇰 Hong Kong 02
