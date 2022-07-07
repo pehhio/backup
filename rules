@@ -4,7 +4,7 @@
 [Rule]
 DOMAIN-SUFFIX,ft.com,🇬🇧 United Kingdom 02
 DOMAIN-KEYWORD,DISNEY,🇭🇰 Hong Kong 02
-DOMAIN-KEYWORD,hbo,🇨🇳 Taiwan 2
+DOMAIN-KEYWORD,hbo,🇨🇳 Taiwan 02
 DOMAIN-KEYWORD,nytimes,🇺🇸 United States 02
 DOMAIN-KEYWORD,dowjones,🇺🇸 United States 02
 DOMAIN-KEYWORD,hulu,🇭🇰 Hong Kong 02
