@@ -1,0 +1,48 @@
+hbo
+# NAME: HBO
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-07-19 20:15:15
+# HOST: 1
+# HOST-SUFFIX: 36
+# USER-AGENT: 2
+# TOTAL: 39
+DOMAIN,wmff.warnermediacdn.com,🔪 HBO
+DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net,🔪 HBO
+DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,🔪 HBO
+DOMAIN-SUFFIX,cinemax.com,🔪 HBO
+DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net,🔪 HBO
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,🔪 HBO
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,🔪 HBO
+DOMAIN-SUFFIX,forthethrone.com,🔪 HBO
+DOMAIN-SUFFIX,hbo.com,🔪 HBO
+DOMAIN-SUFFIX,hboasia.com,🔪 HBO
+DOMAIN-SUFFIX,hboasia1-i.akamaihd.net,🔪 HBO
+DOMAIN-SUFFIX,hboasia2-i.akamaihd.net,🔪 HBO
+DOMAIN-SUFFIX,hboasia3-i.akamaihd.net,🔪 HBO
+DOMAIN-SUFFIX,hboasia4-i.akamaihd.net,🔪 HBO
+DOMAIN-SUFFIX,hboasia5-i.akamaihd.net,🔪 HBO
+DOMAIN-SUFFIX,hboasialive.akamaized.net,🔪 HBO
+DOMAIN-SUFFIX,hbogeo.cust.footprint.net,🔪 HBO
+DOMAIN-SUFFIX,hbogo.com,🔪 HBO
+DOMAIN-SUFFIX,hbogoasia.com,🔪 HBO
+DOMAIN-SUFFIX,hbogoasia.hk,🔪 HBO
+DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net,🔪 HBO
+DOMAIN-SUFFIX,hbolb.onwardsmg.com,🔪 HBO
+DOMAIN-SUFFIX,hbomax.com,🔪 HBO
+DOMAIN-SUFFIX,hbomaxcdn.com,🔪 HBO
+DOMAIN-SUFFIX,hbonow.com,🔪 HBO
+DOMAIN-SUFFIX,hbounify-prod.evergent.com,🔪 HBO
+DOMAIN-SUFFIX,manifest.prod.boltdns.net,🔪 HBO
+DOMAIN-SUFFIX,maxgo.com,🔪 HBO
+DOMAIN-SUFFIX,now-ashare.com,🔪 HBO
+DOMAIN-SUFFIX,now-tv.com,🔪 HBO
+DOMAIN-SUFFIX,now.com,🔪 HBO
+DOMAIN-SUFFIX,now.com.hk,🔪 HBO
+DOMAIN-SUFFIX,nowe.com,🔪 HBO
+DOMAIN-SUFFIX,nowe.hk,HBO
+DOMAIN-SUFFIX,players.brightcove.net,🔪 HBO
+DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com,🔪 HBO
+DOMAIN-SUFFIX,youboranqs01.com,🔪 HBO
+USER-AGENT,HBO%20NOW*,🔪 HBO
+USER-AGENT,HBOMAX*,🔪 HBO
