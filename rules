@@ -4,7 +4,6 @@
 [Rule]
 DOMAIN-SUFFIX,ft.com,🇬🇧 United Kingdom 02
 DOMAIN-KEYWORD,DISNEY,🇭🇰 Hong Kong 02
-DOMAIN-KEYWORD,hbo,🇨🇳 Taiwan 02
 DOMAIN-KEYWORD,nytimes,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,dowjones,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,hulu,🇭🇰 Hong Kong 02
@@ -24,4 +23,4 @@ DOMAIN-SUFFIX,bb-static.com,🇬🇧 United Kingdom 02
 DOMAIN-SUFFIX,appsflyer.com,🇬🇧 United Kingdom 02
 DOMAIN-SUFFIX,braze.eu,🇬🇧 United Kingdom 02
 DOMAIN,itv.com,🇬🇧 United Kingdom 02
-RULE-SET,https://raw.githubusercontent.com/pehhio/backups/main/HBO.list,🇨🇳 Taiwan 02
+RULE-SET,https://raw.githubusercontent.com/pehhio/backups/main/HBO.list,🇭🇰 Hong Kong 02
