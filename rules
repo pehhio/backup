@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,bb-static.com,🇬🇧 United Kingdom 02
 DOMAIN-SUFFIX,appsflyer.com,🇬🇧 United Kingdom 02
 DOMAIN-SUFFIX,braze.eu,🇬🇧 United Kingdom 02
 DOMAIN,itv.com,🇬🇧 United Kingdom 02
+RULE-SET,https://raw.githubusercontent.com/pehhio/backups/main/HBO.list,🇨🇳 Taiwan 02
