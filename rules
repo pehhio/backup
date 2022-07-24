@@ -13,14 +13,15 @@ DOMAIN-KEYWORD,m-team,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,sling,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,pandora,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,pikpak,🇭🇰 Hong Kong 02
-USER-AGENT,Britbox*,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,bbc.co.uk,🇬🇧 United Kingdom 02
-DOMAIN,d2z3p34itxwaj7.cloudfront.net,🇬🇧 United Kingdom 02# > BritboxUK
-DOMAIN-SUFFIX,britbox.co.uk,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,magni.itv.com,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,raygun.com,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,bb-static.com,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,appsflyer.com,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,braze.eu,🇬🇧 United Kingdom 02
-DOMAIN,itv.com,🇬🇧 United Kingdom 02
+#USER-AGENT,Britbox*,🇬🇧 United Kingdom 02
+#DOMAIN-SUFFIX,bbc.co.uk,🇬🇧 United Kingdom 02
+#DOMAIN,d2z3p34itxwaj7.cloudfront.net,🇬🇧 United Kingdom 02# > BritboxUK
+#DOMAIN-SUFFIX,britbox.co.uk,🇬🇧 United Kingdom 02
+#DOMAIN-SUFFIX,magni.itv.com,🇬🇧 United Kingdom 02
+#DOMAIN-SUFFIX,raygun.com,🇬🇧 United Kingdom 02
+#DOMAIN-SUFFIX,bb-static.com,🇬🇧 United Kingdom 02
+#DOMAIN-SUFFIX,appsflyer.com,🇬🇧 United Kingdom 02
+#DOMAIN-SUFFIX,braze.eu,🇬🇧 United Kingdom 02
+#DOMAIN,itv.com,🇬🇧 United Kingdom 02
 RULE-SET,https://raw.githubusercontent.com/pehhio/backups/main/HBO.list,🇭🇰 Hong Kong 02
+RULE-SET,https://raw.githubusercontent.com/pehhio/backups/main/britbox.list,🇬🇧 United Kingdom 02
