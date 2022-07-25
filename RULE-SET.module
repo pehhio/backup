@@ -10,7 +10,7 @@ DOMAIN-KEYWORD,hulu,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,washingtonpost,🇺🇸 USA Seattle 03
 DOMAIN-KEYWORD,wpdigital,🇺🇸 USA Seattle 03
 DOMAIN-KEYWORD,m-team,🇭🇰 Hong Kong 02
-DOMAIN-KEYWORD,sling,🇺🇸 USA Seattle 02
+#DOMAIN-KEYWORD,sling,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,pandora,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,pikpak,🇭🇰 Hong Kong 02
 DOMAIN-SET,https://raw.githubusercontent.com/pehhio/backups/main/HBO.list,🇭🇰 Hong Kong 02
