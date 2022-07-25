@@ -2,7 +2,7 @@
 #!desc=
 
 [Rule]
-DOMAIN-SUFFIX,ft.com,🇬🇧 United Kingdom 02
+DOMAIN-SUFFIX,ft.com,🇬🇧 UK London 02
 DOMAIN-KEYWORD,DISNEY,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,nytimes,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,dowjones,🇺🇸 USA Seattle 02
@@ -55,13 +55,13 @@ DOMAIN-SUFFIX,youboranqs01.com,🇭🇰 Hong Kong 02
 USER-AGENT,HBO%20NOW*,🇭🇰 Hong Kong 02
 USER-AGENT,HBOMAX*,🇭🇰 Hong Kong 02
 
-USER-AGENT,Britbox*,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,bbc.co.uk,🇬🇧 United Kingdom 02
-DOMAIN,d2z3p34itxwaj7.cloudfront.net,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,britbox.co.uk,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,magni.itv.com,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,raygun.com,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,bb-static.com,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,appsflyer.com,🇬🇧 United Kingdom 02
-DOMAIN-SUFFIX,braze.eu,🇬🇧 United Kingdom 02
-DOMAIN,itv.com,🇬🇧 United Kingdom 02
+USER-AGENT,Britbox*,🇬🇧 UK London 02
+DOMAIN-SUFFIX,bbc.co.uk,🇬🇧 UK London 02
+DOMAIN,d2z3p34itxwaj7.cloudfront.net,🇬🇧 UK London 02
+DOMAIN-SUFFIX,britbox.co.uk,🇬🇧 UK London 02
+DOMAIN-SUFFIX,magni.itv.com,🇬🇧 UK London 02
+DOMAIN-SUFFIX,raygun.com,🇬🇧 UK London 02
+DOMAIN-SUFFIX,bb-static.com,🇬🇧 UK London 02
+DOMAIN-SUFFIX,appsflyer.com,🇬🇧 UK London 02
+DOMAIN-SUFFIX,braze.eu,🇬🇧 UK London 02
+DOMAIN,itv.com,🇬🇧 UK London 02
