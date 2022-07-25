@@ -15,45 +15,45 @@ DOMAIN-KEYWORD,pandora,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,pikpak,🇭🇰 Hong Kong 02
 
 
-DOMAIN,wmff.warnermediacdn.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,cinemax.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,forthethrone.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbo.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hboasia.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hboasia1-i.akamaihd.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hboasia2-i.akamaihd.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hboasia3-i.akamaihd.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hboasia4-i.akamaihd.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hboasia5-i.akamaihd.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hboasialive.akamaized.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbogeo.cust.footprint.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbogo.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbogoasia.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbogoasia.hk,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbolb.onwardsmg.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbomax.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbomaxcdn.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbonow.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,hbounify-prod.evergent.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,manifest.prod.boltdns.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,maxgo.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,now-ashare.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,now-tv.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,now.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,now.com.hk,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,nowe.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,nowe.hk,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,players.brightcove.net,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com,🇭🇰 Hong Kong 02
-DOMAIN-SUFFIX,youboranqs01.com,🇭🇰 Hong Kong 02
-USER-AGENT,HBO%20NOW*,🇭🇰 Hong Kong 02
-USER-AGENT,HBOMAX*,🇭🇰 Hong Kong 02
+DOMAIN,wmff.warnermediacdn.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,cinemax.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,forthethrone.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbo.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hboasia.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hboasia1-i.akamaihd.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hboasia2-i.akamaihd.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hboasia3-i.akamaihd.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hboasia4-i.akamaihd.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hboasia5-i.akamaihd.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hboasialive.akamaized.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbogeo.cust.footprint.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbogo.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbogoasia.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbogoasia.hk,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbolb.onwardsmg.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbomax.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbomaxcdn.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbonow.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,hbounify-prod.evergent.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,manifest.prod.boltdns.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,maxgo.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,now-ashare.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,now-tv.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,now.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,now.com.hk,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,nowe.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,nowe.hk,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,players.brightcove.net,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,youboranqs01.com,🇨🇳 Taiwan 02
+USER-AGENT,HBO%20NOW*,🇨🇳 Taiwan 02
+USER-AGENT,HBOMAX*,🇨🇳 Taiwan 02
 
 USER-AGENT,Britbox*,🇬🇧 UK London 02
 DOMAIN-SUFFIX,bbc.co.uk,🇬🇧 UK London 02
