@@ -55,16 +55,16 @@ DOMAIN-SUFFIX,youboranqs01.com,🇨🇳 Taiwan 02
 USER-AGENT,HBO%20NOW*,🇨🇳 Taiwan 02
 USER-AGENT,HBOMAX*,🇨🇳 Taiwan 02
 
-USER-AGENT,Britbox*,🇬🇧 UK London 02
-DOMAIN-SUFFIX,bbc.co.uk,🇬🇧 UK London 02
+DOMAIN-KEYWORD,bbc,🇬🇧 UK London 02
 DOMAIN,d2z3p34itxwaj7.cloudfront.net,🇬🇧 UK London 02
-DOMAIN-SUFFIX,britbox.co.uk,🇬🇧 UK London 02
+DOMAIN-KEYWORD,britbox,🇬🇧 UK London 02
 DOMAIN-SUFFIX,magni.itv.com,🇬🇧 UK London 02
 DOMAIN-SUFFIX,raygun.com,🇬🇧 UK London 02
 DOMAIN-SUFFIX,bb-static.com,🇬🇧 UK London 02
 DOMAIN-SUFFIX,appsflyer.com,🇬🇧 UK London 02
 DOMAIN-SUFFIX,braze.eu,🇬🇧 UK London 02
-DOMAIN,itv.com,🇬🇧 UK London 02
+DOMAIN-KEYWORD,itv,🇬🇧 UK London 02
+DOMAIN-SUFFIX,stripe.com,🇬🇧 UK London 02
 
 DOMAIN-SUFFIX,adrta.com,🇺🇸 USA Seattle 02
 DOMAIN-SUFFIX,adsrvr.org,🇺🇸 USA Seattle 02
