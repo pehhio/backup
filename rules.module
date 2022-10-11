@@ -19,11 +19,8 @@ DOMAIN-KEYWORD,setapp,DIRECT
 DOMAIN-KEYWORD,emby,DIRECT
 DOMAIN-KEYWORD,plex,DIRECT
 
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net,🇸🇬 Singapore 02
-DOMAIN,d22qjgkvxw22r6.cloudfront.net,🇸🇬 Singapore 02
-DOMAIN,d25xi40x97liuc.cloudfront.net,🇸🇬 Singapore 02
-DOMAIN,d27xxe7juh1us6.cloudfront.net,🇸🇬 Singapore 02
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,🇸🇬 Singapore 02
+DOMAIN-KEYWORD,amazon,🇸🇬 Singapore 02
+DOMAIN-SUFFIX,cloudfront.net,🇸🇬 Singapore 02
 DOMAIN-SUFFIX,aiv-cdn.net,🇸🇬 Singapore 02
 DOMAIN-SUFFIX,aiv-delivery.net,🇸🇬 Singapore 02
 DOMAIN-SUFFIX,amazonprimevideo.cn,🇸🇬 Singapore 02
