@@ -22,6 +22,7 @@ DOMAIN-KEYWORD,parsec,DIRECT
 DEST-PORT,8096,DIRECT
 DEST-PORT,32400,DIRECT
 DOMAIN-KEYWORD,synology,DIRECT
+PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server,DIRECT
 
 DOMAIN-KEYWORD,amazon,🇸🇬 Singapore 02
 DOMAIN-SUFFIX,cloudfront.net,🇸🇬 Singapore 02
