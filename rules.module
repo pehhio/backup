@@ -26,8 +26,10 @@ DOMAIN-KEYWORD,synology,DIRECT
 # PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server,DIRECT
 # PROCESS-NAME,/Applications/Plex.app/Contents/MacOS/Plex,DIRECT
 DOMAIN-SUFFIX,kiddoe.top,DIRECT
-IP-CIDR,172.98.12.1/24,DIRECT
-IP-CIDR,209.209.11.1/24,DIRECT
+# IP-CIDR,172.98.12.1/24,DIRECT
+# IP-CIDR,209.209.11.1/24,DIRECT
+IP-CIDR,206.190.239.0/24,DIRECT
+
 
 DOMAIN-KEYWORD,amazon,🇸🇬 Singapore 02
 DOMAIN-SUFFIX,cloudfront.net,🇸🇬 Singapore 02
