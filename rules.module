@@ -16,15 +16,15 @@ DOMAIN-KEYWORD,pikpak,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,evernote,DIRECT
 DOMAIN-KEYWORD,teamviewer,DIRECT
 DOMAIN-KEYWORD,setapp,DIRECT
-DOMAIN-KEYWORD,emby,DIRECT
-#DOMAIN-KEYWORD,plex,DIRECT
+# DOMAIN-KEYWORD,emby,DIRECT
+# DOMAIN-KEYWORD,plex,DIRECT
 DOMAIN-KEYWORD,parsec,DIRECT
-DEST-PORT,8096,DIRECT
-DEST-PORT,32400,DIRECT
+# DEST-PORT,8096,DIRECT
+# DEST-PORT,32400,DIRECT
 # DEST-PORT,11707,DIRECT
 DOMAIN-KEYWORD,synology,DIRECT
-PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server,DIRECT
-PROCESS-NAME,/Applications/Plex.app/Contents/MacOS/Plex,DIRECT
+# PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server,DIRECT
+# PROCESS-NAME,/Applications/Plex.app/Contents/MacOS/Plex,DIRECT
 DOMAIN-SUFFIX,kiddoe.top,DIRECT
 
 DOMAIN-KEYWORD,amazon,🇸🇬 Singapore 02
