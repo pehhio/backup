@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,kiddoe.top,DIRECT
 #IP-CIDR,172.98.12.0/24,🇨🇦 Canada 02
 #IP-CIDR,209.209.11.0/24,🇨🇦 Canada 02
 #IP-CIDR,167.235.204.0/24,🇩🇪 Germany 02
-#IP-CIDR,167.235.251.0/24,🇩🇪 Germany 02
+IP-CIDR,167.235.251.0/24,🇩🇪 Germany 02
 DOMAIN-KEYWORD,belle,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,openai,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,chatgpt,🇺🇸 USA Seattle 02
