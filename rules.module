@@ -36,7 +36,7 @@ DOMAIN-KEYWORD,chatgpt,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,your-storagebox,Akko
 DOMAIN-KEYWORD,m-team,🇨🇳 Taiwan 02
 DOMAIN-KEYWORD,roamresearch,🇭🇰 Hong Kong 02
-
+DEST-PORT,22,DIRECT
 
 # IP-CIDR,206.190.239.0/24,DIRECT
 # PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent,DIRECT
