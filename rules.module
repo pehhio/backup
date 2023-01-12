@@ -37,6 +37,7 @@ DOMAIN-KEYWORD,your-storagebox,Akko
 DOMAIN-KEYWORD,m-team,🇨🇳 Taiwan 02
 DOMAIN-KEYWORD,roamresearch,🇭🇰 Hong Kong 02
 DEST-PORT,22,DIRECT
+PROCESS-NAME,/Applications/Roam Research.app/Contents/Frameworks/Roam Research Helper.app/Contents/MacOS/Roam Research Helper,🇭🇰 Hong Kong 02
 
 # IP-CIDR,206.190.239.0/24,DIRECT
 # PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent,DIRECT
