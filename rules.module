@@ -16,16 +16,18 @@ DOMAIN-KEYWORD,pikpak,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,evernote,DIRECT
 DOMAIN-KEYWORD,teamviewer,DIRECT
 DOMAIN-KEYWORD,setapp,DIRECT
-# DOMAIN-KEYWORD,emby,DIRECT
-# DOMAIN-KEYWORD,plex,DIRECT
+DOMAIN-KEYWORD,emby,DIRECT
+DOMAIN-KEYWORD,plex,DIRECT
 DOMAIN-KEYWORD,parsec,DIRECT
-# DEST-PORT,8096,DIRECT
-# DEST-PORT,32400,DIRECT
-# DEST-PORT,11707,DIRECT
-# DOMAIN-KEYWORD,synology,DIRECT
-# PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server,DIRECT
-# PROCESS-NAME,/Applications/Plex.app/Contents/MacOS/Plex,DIRECT
+DEST-PORT,8096,DIRECT
+DEST-PORT,32400,DIRECT
+DEST-PORT,11707,DIRECT
+DOMAIN-KEYWORD,synology,DIRECT
+PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server,DIRECT
+PROCESS-NAME,/Applications/Plex.app/Contents/MacOS/Plex,DIRECT
 DOMAIN-SUFFIX,kiddoe.top,DIRECT
+DOMAIN-SUFFIX,kiddoe.cn,DIRECT
+DOMAIN-SUFFIX,pehhio.top,DIRECT
 #IP-CIDR,172.98.12.0/24,🇨🇦 Canada 02
 #IP-CIDR,209.209.11.0/24,🇨🇦 Canada 02
 #IP-CIDR,167.235.204.0/24,🇩🇪 Germany 02
@@ -38,6 +40,22 @@ DOMAIN-KEYWORD,m-team,🇨🇳 Taiwan 02
 DOMAIN-KEYWORD,roamresearch,🇭🇰 Hong Kong 02
 DEST-PORT,22,DIRECT
 PROCESS-NAME,/Applications/Roam Research.app/Contents/Frameworks/Roam Research Helper.app/Contents/MacOS/Roam Research Helper,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,nexitally,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,64clouds,DIRECT
+DOMAIN-KEYWORD,bwh81,DIRECT
+DEST-PORT,666,DIRECT
+DOMAIN-KEYWORD,tana,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,infura,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,intercom,🇺🇸 USA Seattle 02
+IP-CIDR,206.190.239.0/24,DIRECT
+PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent,DIRECT
+SRC-IP,192.168.100.236,DIRECT
+DOMAIN-KEYWORD,missav,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,xvideos,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,soav,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,pornfind,🇭🇰 Hong Kong 02
+
+
 
 # IP-CIDR,206.190.239.0/24,DIRECT
 # PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent,DIRECT
