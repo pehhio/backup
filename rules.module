@@ -1,4 +1,4 @@
-#!name=规则
+#!name=规则Gogs
 #!desc=
 
 [Rule]
@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,ft.com,🇬🇧 UK London 02
 DOMAIN-KEYWORD,DISNEY,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,nytimes,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,dowjones,🇺🇸 USA Seattle 02
-DOMAIN-KEYWORD,hulu,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,hulusaas,DIRECT
 DOMAIN-KEYWORD,washingtonpost,🇺🇸 USA Seattle 03
 DOMAIN-KEYWORD,wpdigital,🇺🇸 USA Seattle 03
 DOMAIN-KEYWORD,m-team,🇭🇰 Hong Kong 02
@@ -54,6 +54,23 @@ DOMAIN-KEYWORD,missav,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,xvideos,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,soav,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,pornfind,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,dicmusic,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,pluto,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,discord,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,midjourney,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,logseq,DIRECT
+DOMAIN-KEYWORD,github,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,gravatar,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,chatpdf,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,facebook,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,amazonaws,DIRECT
+DOMAIN-KEYWORD,quantamagazine,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,nat.dev,🇺🇸 USA Seattle 02
+#DOMAIN-KEYWORD,clarity.ms,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,typeset,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,gettyimages,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,writesonic,🇺🇸 USA Seattle 02
+
 
 
 
