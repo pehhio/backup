@@ -2,13 +2,13 @@
 #!desc=
 
 [Rule]
-DOMAIN-SUFFIX,ft.com,🇬🇧 UK London 02
+DOMAIN-SUFFIX,ft.com,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,DISNEY,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,nytimes,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,dowjones,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,hulusaas,DIRECT
-DOMAIN-KEYWORD,washingtonpost,🇺🇸 USA Seattle 03
-DOMAIN-KEYWORD,wpdigital,🇺🇸 USA Seattle 03
+DOMAIN-KEYWORD,washingtonpost,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,wpdigital,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,m-team,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,sling,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,pandora,🇺🇸 USA Seattle 02
@@ -17,25 +17,26 @@ DOMAIN-KEYWORD,evernote,DIRECT
 DOMAIN-KEYWORD,teamviewer,DIRECT
 DOMAIN-KEYWORD,setapp,DIRECT
 DOMAIN-KEYWORD,emby,DIRECT
-DOMAIN-KEYWORD,plex,DIRECT
+DOMAIN-SUFFIX,plex.tv,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,plex.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,plexvideos.com,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,parsec,DIRECT
 DEST-PORT,8096,DIRECT
 DEST-PORT,32400,DIRECT
 DEST-PORT,11707,DIRECT
 DOMAIN-KEYWORD,synology,DIRECT
-PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server,DIRECT
-PROCESS-NAME,/Applications/Plex.app/Contents/MacOS/Plex,DIRECT
+#PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server,DIRECT
+#PROCESS-NAME,/Applications/Plex.app/Contents/MacOS/Plex,DIRECT
 DOMAIN-SUFFIX,kiddoe.top,DIRECT
 DOMAIN-SUFFIX,kiddoe.cn,DIRECT
+DOMAIN-SUFFIX,pehhio.cn,DIRECT
 DOMAIN-SUFFIX,pehhio.top,DIRECT
 #IP-CIDR,172.98.12.0/24,🇨🇦 Canada 02
 #IP-CIDR,209.209.11.0/24,🇨🇦 Canada 02
 #IP-CIDR,167.235.204.0/24,🇩🇪 Germany 02
 #IP-CIDR,167.235.251.0/24,🇩🇪 Germany 02
-DOMAIN-KEYWORD,belle,🇭🇰 Hong Kong 02
-DOMAIN-KEYWORD,openai,🇺🇸 USA Seattle 02
-DOMAIN-KEYWORD,chatgpt,🇺🇸 USA Seattle 02
-DOMAIN-KEYWORD,your-storagebox,Akko
+DOMAIN-SUFFIX,bellesaplus.co,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,bellesa.co,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,m-team,🇨🇳 Taiwan 02
 DOMAIN-KEYWORD,roamresearch,🇭🇰 Hong Kong 02
 DEST-PORT,22,DIRECT
@@ -44,14 +45,13 @@ DOMAIN-KEYWORD,nexitally,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,64clouds,DIRECT
 DOMAIN-KEYWORD,bwh81,DIRECT
 DEST-PORT,666,DIRECT
-DOMAIN-KEYWORD,tana,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,tana,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,infura,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,intercom,🇺🇸 USA Seattle 02
 IP-CIDR,206.190.239.0/24,DIRECT
 PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent,DIRECT
 SRC-IP,192.168.100.236,DIRECT
 DOMAIN-KEYWORD,missav,🇭🇰 Hong Kong 02
-DOMAIN-KEYWORD,xvideos,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,soav,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,pornfind,🇭🇰 Hong Kong 02
 DOMAIN-KEYWORD,dicmusic,🇭🇰 Hong Kong 02
@@ -59,17 +59,99 @@ DOMAIN-KEYWORD,pluto,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,discord,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,midjourney,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,logseq,DIRECT
-DOMAIN-KEYWORD,github,🇭🇰 Hong Kong 02
-DOMAIN-KEYWORD,gravatar,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,github,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,gravatar,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,chatpdf,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,facebook,🇺🇸 USA Seattle 02
-DOMAIN-KEYWORD,amazonaws,DIRECT
+DOMAIN-KEYWORD,amazonaws,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,quantamagazine,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,nat.dev,🇺🇸 USA Seattle 02
 #DOMAIN-KEYWORD,clarity.ms,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,typeset,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,gettyimages,🇺🇸 USA Seattle 02
 DOMAIN-KEYWORD,writesonic,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,ai.com,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,chatthing,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,readwise,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,cubox,DIRECT
+DOMAIN-SUFFIX,mem.ai,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,sentry-cdn,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,superusapp,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,perplexity.ai,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,businessinsider,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,google,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,claude,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,slack,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,airr.io,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,stripe.com,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,raindrop,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,mymind,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,bbhub,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,clearlyreader.com,DIRECT
+DOMAIN-KEYWORD,worldcoin,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,rewind.ai,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,vimeo,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,notion,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,anthropic,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,sciencedirect,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,sentry.io,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,91md,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,imgbox,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,wolframcdn,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,nature.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,uptodate.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,nih.gov,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,oup.com,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,duolingo,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,cron.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,arc.net,DIRECT
+DOMAIN-SUFFIX,opera.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,opera-api2.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,opera-api.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,grammarly.io,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,bing.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,grammarly.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,poe.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,segment.io,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,mbmzone.com,DIRECT
+DOMAIN-SUFFIX,yingjin.pro,DIRECT
+DOMAIN-SUFFIX,tegbr.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,ankiweb.net,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,litix.io,🇨🇳 Taiwan 02
+DOMAIN-SUFFIX,themoviedb.org,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,tmdb.org,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,thetvdb.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,trakt.tv,DIRECT
+DOMAIN-SUFFIX,imdb.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,arzon.jp,🇯🇵 Japan 02
+DOMAIN-KEYWORD,clouddrive2,DIRECT
+DOMAIN-KEYWORD,canarymail.io,DIRECT
+DOMAIN-KEYWORD,openl.club,DIRECT
+DOMAIN-KEYWORD,jsdelivr.net,DIRECT
+DOMAIN-KEYWORD,relingo.net,🇺🇸 USA Seattle 02
+DOMAIN-KEYWORD,clouddrive2,DIRECT
+DOMAIN-SUFFIX,springserve.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,python.org,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,pythonhosted.org,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,uptodown.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,emagazines.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,time.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,zotero.org,DIRECT
+DOMAIN-SUFFIX,wps.com,DIRECT
+DOMAIN-KEYWORD,hexagramglobal,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,depay,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,binance,🇭🇰 Hong Kong 02
+DOMAIN-KEYWORD,dupay,🇭🇰 Hong Kong 02
+DOMAIN-SUFFIX,clarity.ms,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,googleapis.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,sms-activate.org,DIRECT
+DOMAIN-SUFFIX,api-forwards.com,DIRECT
+DOMAIN-SUFFIX,bloomberg.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,theatlantic.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,economist.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,newyorker.com,🇺🇸 USA Seattle 02
+DOMAIN-SUFFIX,wsj.com,🇺🇸 USA Seattle 02
+
 
 
 
@@ -79,7 +161,7 @@ DOMAIN-KEYWORD,writesonic,🇺🇸 USA Seattle 02
 # SRC-IP,192.168.100.236,DIRECT
 
 DOMAIN-KEYWORD,amazon,🇸🇬 Singapore 02
-DOMAIN-SUFFIX,cloudfront.net,🇸🇬 Singapore 02
+#DOMAIN-SUFFIX,cloudfront.net,🇸🇬 Singapore 02
 DOMAIN-SUFFIX,aiv-cdn.net,🇸🇬 Singapore 02
 DOMAIN-SUFFIX,aiv-delivery.net,🇸🇬 Singapore 02
 DOMAIN-SUFFIX,amazonprimevideo.cn,🇸🇬 Singapore 02
@@ -142,7 +224,8 @@ DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com,🇨🇳 Taiwan 02
 DOMAIN-SUFFIX,youboranqs01.com,🇨🇳 Taiwan 02
 USER-AGENT,HBO%20NOW*,🇨🇳 Taiwan 02
 USER-AGENT,HBOMAX*,🇨🇳 Taiwan 02
-
+USER-AGENT,HBO*,🇨🇳 Taiwan 02
+DOMAIN-KEYWORD,hbo,🇨🇳 Taiwan 02
 
 DOMAIN-KEYWORD,bbc,🇬🇧 UK London 02
 DOMAIN,d2z3p34itxwaj7.cloudfront.net,🇬🇧 UK London 02
@@ -150,7 +233,7 @@ DOMAIN-KEYWORD,britbox,🇬🇧 UK London 02
 DOMAIN-SUFFIX,magni.itv.com,🇬🇧 UK London 02
 DOMAIN-KEYWORD,raygun,🇬🇧 UK London 02
 DOMAIN-SUFFIX,bb-static.com,🇬🇧 UK London 02
-DOMAIN-SUFFIX,appsflyer.com,🇬🇧 UK London 02
+DOMAIN-SUFFIX,appsflyer.com,🇨🇳 Taiwan 02
 DOMAIN-SUFFIX,braze.eu,🇬🇧 UK London 02
 DOMAIN-KEYWORD,itv,🇬🇧 UK London 02
 
